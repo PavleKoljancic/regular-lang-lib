@@ -1,0 +1,36 @@
+myDFA
+
+q0
+q3,q4
+(q0;a)>{q1},(q0;b)>{q2},(q1;b)>{q1},(q1;a)>{q3},(q2;b)>{q4},(q2;a)>{q2},(q3;b)>{q1},(q3;a)>{q3},(q4;b)>{q4},(q4;a)>{q2}
+string Name,int count,char? trans
+Name="Pero",count=0,trans=null
+ENTERY
+STATE,q0
+Console.WriteLine("Moj macak je crn.");
+Console.WriteLine($"Ja sam {Name} usli ste u ${state}");
+Console.ReadLine();
+END
+STATE,q4
+Console.WriteLine("Usili ste u zavrsno stanje nadam se da necete otici");
+END
+STATE,q3
+Console.WriteLine("Usili ste u zavrsno stanje nadam se da necete otici");
+END
+END
+LEFT
+STATE,q2
+if(trans=='a') 
+    Console.WriteLine("Pero je imao predhodno a!!!");
+END
+END
+TRANSITION
+TRANSITION,q0,a
+trans = SymbolState.Item1;
+Console.WriteLine($"Otisli ste iz pocetnog stanja koriscenjem {SymbolState.Item1}");
+END
+TRANSITION,q0,b
+trans = SymbolState.Item1;
+Console.WriteLine($"Otisli ste iz pocetnog stanja koriscenjem {SymbolState.Item1}");
+END
+END

@@ -1,0 +1,15 @@
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/parser
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/parser.deps.json
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/parser.runtimeconfig.json
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/parser.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/ref/parser.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/bin/Debug/net6.0/parser.pdb
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/ref/parser.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.pdb
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/obj/Debug/net6.0/parser.genruntimeconfig.cache

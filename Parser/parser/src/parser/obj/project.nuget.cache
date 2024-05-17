@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmxh0sKgXjlikA1BJZXhlREIEmG93ABSV4uuqCrhnMFbuaInnTjR3QYU0P6BOoKrGF7phjKwHI+24wPKMK3e0Q==",
+  "success": true,
+  "projectFilePath": "/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Parser/parser/src/parser/parser.csproj",
+  "expectedPackageFiles": [
+    "/home/pavle/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

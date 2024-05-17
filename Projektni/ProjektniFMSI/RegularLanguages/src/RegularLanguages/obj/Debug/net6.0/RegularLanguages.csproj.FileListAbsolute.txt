@@ -1,0 +1,48 @@
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.deps.json
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.deps.json
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.deps.json
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/II/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.deps.json
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/bin/Debug/net6.0/RegularLanguages.pdb
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/ref/RegularLanguages.dll
+/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/obj/Debug/net6.0/RegularLanguages.pdb

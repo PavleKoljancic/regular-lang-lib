@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GenDFA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RegularLanguages": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GenDFA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GenDFA.dll": {}
+        }
+      },
+      "RegularLanguages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RegularLanguages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegularLanguages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenDFA/1.0.0": {
+      "type": "project",
+      "path": "../GenDFA/src/GenDFA/GenDFA.csproj",
+      "msbuildProject": "../GenDFA/src/GenDFA/GenDFA.csproj"
+    },
+    "RegularLanguages/1.0.0": {
+      "type": "project",
+      "path": "../RegularLanguages/src/RegularLanguages/RegularLanguages.csproj",
+      "msbuildProject": "../RegularLanguages/src/RegularLanguages/RegularLanguages.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GenDFA >= 1.0.0",
+      "RegularLanguages >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/pavle/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/Generated/Generated.csproj",
+      "projectName": "Generated",
+      "projectPath": "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/Generated/Generated.csproj",
+      "packagesPath": "/home/pavle/.nuget/packages/",
+      "outputPath": "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/Generated/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/pavle/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/GenDFA/src/GenDFA/GenDFA.csproj": {
+              "projectPath": "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/GenDFA/src/GenDFA/GenDFA.csproj"
+            },
+            "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/RegularLanguages.csproj": {
+              "projectPath": "/home/pavle/Desktop/FAKS/2/FMSI/C#/Projektni/ProjektniFMSI/RegularLanguages/src/RegularLanguages/RegularLanguages.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

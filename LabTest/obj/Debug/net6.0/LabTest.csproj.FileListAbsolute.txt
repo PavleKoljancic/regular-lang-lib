@@ -1,0 +1,15 @@
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/LabTest
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/LabTest.deps.json
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/LabTest.runtimeconfig.json
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/LabTest.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/ref/LabTest.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/bin/Debug/net6.0/LabTest.pdb
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.csproj.AssemblyReference.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.AssemblyInfoInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.AssemblyInfo.cs
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.csproj.CoreCompileInputs.cache
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/ref/LabTest.dll
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.pdb
+/home/pavle/Desktop/FAKS/II Godina/FMSI/C#/LabTest/obj/Debug/net6.0/LabTest.genruntimeconfig.cache

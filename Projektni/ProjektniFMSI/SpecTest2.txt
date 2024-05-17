@@ -1,0 +1,8 @@
+
+TYPE: RE
+(ab::::::::::bb)|c*
+"accc","asfafs","BBD"
+
+TYPE: RE
+(ab|b)*c|c*ab
+"abababbbbbbc","ccccccccab","cccccca","dfa"

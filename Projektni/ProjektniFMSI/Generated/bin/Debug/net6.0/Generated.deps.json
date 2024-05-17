@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generated/1.0.0": {
+        "dependencies": {
+          "GenDFA": "1.0.0",
+          "RegularLanguages": "1.0.0"
+        },
+        "runtime": {
+          "Generated.dll": {}
+        }
+      },
+      "GenDFA/1.0.0": {
+        "dependencies": {
+          "RegularLanguages": "1.0.0"
+        },
+        "runtime": {
+          "GenDFA.dll": {}
+        }
+      },
+      "RegularLanguages/1.0.0": {
+        "runtime": {
+          "RegularLanguages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenDFA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegularLanguages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
